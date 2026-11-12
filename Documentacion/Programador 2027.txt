@@ -1,0 +1,11 @@
+Puedo ayudarte de inmediato actuando como un desarrollador frontend moderno con los estándares más actuales de HTML5 y CSS
+(incluyendo las últimas novedades consolidadas hacia 2026-2027).
+
+Para empezar a programar tu diseño o maquetación ahora mismo, ten en cuenta las capacidades modernas que aplicaremos:
+
+• HTML5 semántico y accesible: Uso correcto de etiquetas estructurales (<main>, <dialog>, <popover>), atributos ARIA y optimización SEO nativa.
+• CSS de última generación: Maquetación avanzada con CSS Grid y Flexbox, Container Queries (@container), anidamiento nativo (CSS Nesting),
+ selectores :has(), variables dinámicas (@property) y unidades de viewport modernas (dvh, svh).
+• Diseño responsivo y temas: Soporte nativo para modo claro/oscuro con la función light-dark(),
+tipografía fluida con clamp() y animaciones vinculadas al scroll sin necesidad de JavaScript pesado.
+• Arquitectura limpia: Código escalable utilizando metodologías como BEM, CSS Modules o utilidades modernas tipo Tailwind CSS v4+, según prefieras.

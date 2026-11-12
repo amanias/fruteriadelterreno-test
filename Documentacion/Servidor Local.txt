@@ -1,0 +1,13 @@
+1º) Abro una terminal en el contenedor web adecuado.
+
+2º) Veo la ip local donde se instala el servidor (por ejemplo 192.168.1.16):
+
+hostname -I
+
+3ª) Cargo el servidor local en el puerto 3333
+
+python3 -m http.server 3333 --directory /home/admanias/Al/Web/fruteriadelterreno
+
+4º) Escribo en el navegador del PC, o del movil en la misma red local, la siguiente direccion aceptando lo que sea pues no es protocolo https://
+
+http://192.168.1.16:3333
